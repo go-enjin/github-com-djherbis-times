@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/djherbis/times"
+	"github.com/go-enjin/github-com-djherbis-times"
 )
 
 func main() {
